@@ -1,6 +1,6 @@
-networkx
-plotly
 streamlit
 scikit-fuzzy
 numpy
 pandas
+plotly
+networkx
