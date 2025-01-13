@@ -5,6 +5,8 @@ from skfuzzy import control as ctrl
 from rules import create_rules
 from info_page import show_info_page
 import plotly.graph_objects as go
+import sys
+print(sys.executable)
 
 # Set page config at the very beginning
 st.set_page_config(page_title="Sistem AQI", page_icon="🌬️", layout="wide")
